@@ -16,6 +16,9 @@
   </Description>
   <Document RemoveSpeakerNotes="false">.\Presentation1Test.pptx</Document>
   <Title>Presentation1Test</Title>
-  <Version>1.0.2</Version>
+  <Version>
+  	1.0.2
+  	
+  </Version>
   <SlideThumbnail>1</SlideThumbnail>
 </Presentation>
